@@ -1,0 +1,12 @@
+.navbar-div {
+    background-color: rgb(37, 37, 37) !important;
+}
+
+.navbar-div a {
+    color: white !important;
+    text-decoration: none;
+}
+
+.navbar-brand {
+    color: rgb(8, 206, 255) !important;
+}
