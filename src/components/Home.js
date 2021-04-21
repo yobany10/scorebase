@@ -3,7 +3,7 @@ import './Home.css'
 
 const Home = () => {
     return (
-        <h1 className='landing-lg-title'>Josue</h1>
+        <h1 className='landing-lg-title'>Home</h1>
     )
 }
 
