@@ -1,4 +1,5 @@
 import React from 'react'
+import './ScoreBar.css'
 
 const ScoreBar = props => {
     return (
