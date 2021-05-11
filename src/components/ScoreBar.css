@@ -1,3 +1,8 @@
 .scorebar-div {
-    color: white;
+    grid-area: scoreBar;
+    color: rgb(67, 78, 78);
+    /* background: rgb(235, 235, 235); */
+    padding: 1rem;
+    box-shadow: 5px 5px 10px 5px rgba(0,0,0,0.1);
+    border-radius: 5px;
 }

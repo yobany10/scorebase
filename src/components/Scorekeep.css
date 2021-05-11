@@ -1,0 +1,23 @@
+.scorekeep-div {
+    display: grid;
+    /* border: 5px green solid; */
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    padding: 0.5rem;
+    gap: 1rem;
+    grid-template-areas: 
+    'quizID . . .'
+    'scoreBar scoreBar scoreBar questionBar'
+    'scoreBar scoreBar scoreBar timeBar'
+    'scoreTable scoreTable scoreTable scoreTable'
+}
+
+.quiz-id {
+    grid-area: quizID;
+    color: white;
+    margin: 0 0 0 0;
+    padding: 0.5rem;
+    background: lightsalmon;
+    border-radius: 5px;
+    /* border: 3px orangered solid; */
+}

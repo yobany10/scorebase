@@ -1,0 +1,8 @@
+.scoretable-div {
+    /* min-width: 1000px; */
+    grid-area: scoreTable;
+}
+
+.scoretable {
+    /* border-radius: 5px; */
+}

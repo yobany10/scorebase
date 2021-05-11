@@ -1,10 +1,14 @@
-.questionbar-div {
-    grid-area: questionBar;
+.timebar-div {
+    grid-area: timeBar;
     color: rgb(67, 78, 78);
     /* background: rgb(235, 235, 235); */
     padding: 1rem;
     box-shadow: 5px 5px 10px 5px rgba(0,0,0,0.1);
     border-radius: 5px;
-    font-weight: bold;
     text-align: center;
+}
+
+.timebar-time-display {
+    font-weight: bold;
+    font-size: 2rem;
 }

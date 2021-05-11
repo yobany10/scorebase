@@ -1,12 +1,21 @@
 .navbar-div {
-    background-color: rgb(37, 37, 37) !important;
+    background-color: rgb(211, 211, 211) !important;
 }
 
 .navbar-div a {
-    color: white !important;
+    color: orangered !important;
     text-decoration: none;
 }
 
-.navbar-brand {
-    color: rgb(8, 206, 255) !important;
+.navbar-brand a {
+    font-weight: bolder;
+}
+
+.navbar-link a {
+    color: rgb(67, 78, 78) !important;
+    padding: 0 1rem;
+}
+
+.navbar-link a:hover {
+    color: orangered !important;
 }

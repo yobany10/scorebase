@@ -7,9 +7,9 @@ import './Navbar.css'
 const MainNavbar = () => {
     return (
         <>
-        <Navbar bg="dark" variant="dark" className="navbar-div" sticky='top'>
+        <Navbar bg="light" className="navbar-div" sticky='top'>
             <Navbar.Brand className='navbar-brand'><Link to='/'>ScoreBase</Link></Navbar.Brand>
-            <Nav className="mr-auto">
+            <Nav className="mr-auto navbar-link">
                 <Link to='/'>Home</Link>
                 <Link to='/scorekeep'>Scorekeep</Link>
             </Nav>
