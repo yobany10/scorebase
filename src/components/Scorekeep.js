@@ -54,6 +54,258 @@ const Scorekeep = () => {
             y3: 0,
             y4: 0,
             y5: 0,
+        },{
+            question: 3,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 4,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 5,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 6,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 7,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 8,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 9,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 10,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 11,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 12,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 13,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 14,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 15,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 16,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 17,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 18,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 19,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
+        },{
+            question: 20,
+            rscore: `${redScore}`,
+            yscore: `${yellowScore}`,
+            r1: 0,
+            r2: 0,
+            r3: 0,
+            r4: 0,
+            r5: 0,
+            y1: 0,
+            y2: 0,
+            y3: 0,
+            y4: 0,
+            y5: 0,
         }
     ]
 
@@ -76,8 +328,33 @@ const Scorekeep = () => {
           </tr>)
         })
       }
+    
+    const handleQuizzerAction = value => {
+        if(value === 'R1-C') {
+            setRedScore(redScore + questionValue(question))
+            setQuestion(q => q + 1)
+            db.collection("quizzes").doc(quizID).collection('quizTable').doc(`question${question}`).set({
+                question: question,
+                    rscore: redScore,
+                    yscore: yellowScore,
+                    r1: 0,
+                    r2: 0,
+                    r3: 0,
+                    r4: 0,
+                    r5: 0,
+                    y1: 0,
+                    y2: 0,
+                    y3: 0,
+                    y4: 0,
+                    y5: 0,
+            })
+            .then((docRef) => {
+                console.log(`Success!`)
+            })
+        }
+    }
 
-    const handleRedPlus = event => {
+    const handleRcorrect = event => {
         setRedScore(redScore + questionValue(question))
         setQuestion(q => q + 1)
         db.collection("quizzes").doc(quizID).collection('quizTable').doc(`question${question}`).set({
@@ -121,6 +398,10 @@ const Scorekeep = () => {
         }, 1000)
         return () => clearInterval(interval)
     },[currentTime])
+
+    const handleClear = () => {
+        setCurrentTime(0)
+    }
 
     const handle5 = () => {
         setCurrentTime(5)
@@ -180,9 +461,9 @@ const Scorekeep = () => {
     return (
         <div className='scorekeep-div'>
             <p className='quiz-id'>Quiz ID: {quizID}</p>
-            <ScoreBar rScore={redScore} yScore={yellowScore}/>
+            <ScoreBar rScore={redScore} yScore={yellowScore} handleQuizzerAction={handleQuizzerAction} />
             <QuestionBar question={question} className='question-bar' />
-            <TimeBar currentTime={currentTime} handle5={handle5} handle30={handle30} handle60={handle60}/>
+            <TimeBar currentTime={currentTime} handleClear={handleClear} handle5={handle5} handle30={handle30} handle60={handle60}/>
             {/* <button onClick={handleRedPlus}>Red Correct</button>
             <button onClick={handleRedMinus}>Red Incorrect</button>
             <button onClick={handleYellowPlus}>Yellow Correct</button>

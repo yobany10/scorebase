@@ -9,14 +9,14 @@
     'quizID . . .'
     'scoreBar scoreBar scoreBar questionBar'
     'scoreBar scoreBar scoreBar timeBar'
-    'scoreTable scoreTable scoreTable scoreTable'
+    'scoreTable scoreTable scoreTable .'
 }
 
 .quiz-id {
     grid-area: quizID;
     color: white;
     margin: 0 0 0 0;
-    padding: 0.5rem;
+    padding: 0.5rem 1rem;
     background: lightsalmon;
     border-radius: 5px;
     /* border: 3px orangered solid; */

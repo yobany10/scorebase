@@ -1,5 +1,6 @@
 .questionbar-div {
     grid-area: questionBar;
+    align-self: start;
     color: rgb(67, 78, 78);
     /* background: rgb(235, 235, 235); */
     padding: 1rem;
